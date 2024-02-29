@@ -1,20 +1,20 @@
-# Android Project 5 - BitFit_Part1
+# Android Project 5 - *Name of App Here*
 
-Submitted by: Jon Belden
+Submitted by: **Zak Kafeero**
 
-BitFit_Part1 is a health metrics app that allows users to track food intake.
+**Name of your app** is a health metrics app that allows users to track ... [TODO] 
 
-Time spent: 12 hours spent in total
+Time spent: **12** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] **At least one health metric is tracked (based on user input)**
+- [ x] **At least one health metric is tracked (based on user input)**
   - Chosen metric(s): `[TODO: FILL ME IN TO GET CREDIT]`
-- [x] **There is a "create entry" UI that prompts users to make their daily entry**
-- [x] **New entries are saved in a database and then updated in the RecyclerView**
-- [x] **On application restart, previously entered entries are preserved (i.e., are *persistent*)**
+- [x ] **There is a "create entry" UI that prompts users to make their daily entry**
+- [ x] **New entries are saved in a database and then updated in the RecyclerView**
+- [ x] **On application restart, previously entered entries are preserved (i.e., are *persistent*)**
  
 The following **optional** features are implemented:
 
@@ -31,19 +31,22 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![BitFit_part1](https://user-images.githubusercontent.com/86134647/194955462-e8b7d172-fed4-4ffe-bcce-d518e4cf3291.gif)
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with LiceCap
-
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with ...  
+<!-- Recommended tools:
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
 Describe any challenges encountered while building the app.
-Main difficult was making sure I was ferencing the correct xml tag and data object. I wasted a long time due to referencing the wrong xml id.
 
 ## License
 
-    Copyright [2022] Jon Belden
+    Copyright [yyyy] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
